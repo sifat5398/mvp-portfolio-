@@ -140,9 +140,9 @@ export const siteContent = {
   footer: {
     name: "Muyedur Rahman",
     links: [
-      { label: "GitHub", url: "https://github.com/your-github" },
-      { label: "LinkedIn", url: "https://linkedin.com/in/your-linkedin" },
-      { label: "X", url: "https://x.com/your-handle" }
+      { label: "GitHub", url: "https://github.com/sifat5398" },
+      { label: "LinkedIn", url: "#" },
+      { label: "X", url: "#" }
     ]
   }
 };
